@@ -16,12 +16,9 @@ http-server/
 ├── src/
 │   ├── Makefile
 │   ├── index.html
-│   ├── main
 │   ├── main.c
-│   ├── main.o
 │   ├── request.c
-│   ├── request.h
-│   └── request.o
+│   └── request.h
 ├── README.md
 └── LICENSE
 ```
